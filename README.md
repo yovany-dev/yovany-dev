@@ -39,3 +39,9 @@
     <img src="https://skillicons.dev/icons?i=vercel" alt="Skill Icon" style="width: 65px; height: 65px;" />
   </div>
 </div>
+
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yovany-dev&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="350"  alt="0xabdulkhalid"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yovany-dev&show_icons=true&theme=tokyonight" alt="GitHub contribution" />
+</div>
