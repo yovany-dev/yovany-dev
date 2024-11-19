@@ -1,5 +1,6 @@
 <div align="center"><img src="https://github.com/user-attachments/assets/ae292ca1-c33f-481e-a554-b0805e7f7726" alt="Yovany Morales" /></div>
 
+<br>
 <div align="center" style="margin-top: 20px;">
   <div style="width: min-content; margin-bottom: 20px; display: flex; align-items: center; gap: 20px;">
     <img src="https://skillicons.dev/icons?i=html" alt="Skill Icon" style="width: 65px; height: 65px;">
