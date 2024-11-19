@@ -34,7 +34,7 @@
     <img src="https://skillicons.dev/icons?i=git" alt="Skill Icon" style="width: 65px; height: 65px;" />
   </div>
   <div style="width: min-content; margin-bottom: 20px; display: flex; align-items: center; gap: 20px;">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Skill Icon" style="width: 65px; height: 65px;">
+    <img src="https://skillicons.dev/icons?i=github" alt="Skill Icon" style="width: 65px; height: 65px;">
     <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Skill Icon" style="width: 65px; height: 65px;" />
     <img src="https://skillicons.dev/icons?i=npm" alt="Skill Icon" style="width: 65px; height: 65px;">
     <img src="https://skillicons.dev/icons?i=vscode" alt="Skill Icon" style="width: 65px; height: 65px;" />
